@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import "./style.sass";
 import Header from "./components/Header.js";
+import Textarea from "./components/Textarea.js";
 
 class App extends Component {
   render() {
@@ -9,8 +10,8 @@ class App extends Component {
       <div>
         <Header />
         <div className="container">
-          <h1>Welcome module bundler parcel</h1>
-          <p>Happy coding</p>
+          <h1>Build a Markdown preview</h1>
+          <Textarea />
         </div>
       </div>
     );
