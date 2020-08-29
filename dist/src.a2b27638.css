@@ -1,0 +1,39 @@
+body {
+  background-color: #21374b;
+  text-align: center;
+  color: #ffff; }
+
+.navbar {
+  background: #21374B;
+  color: #E7DACB;
+  height: 100px; }
+
+h1 {
+  font-size: 40px;
+  margin-top: 30px; }
+
+textarea {
+  background-color: #979694;
+  font-size: 1em; }
+
+img {
+  float: left;
+  width: 15vw;
+  height: auto;
+  margin: 0;
+  padding: 15px 0 0 15px; }
+
+#preview {
+  padding: 20px 0 20px 0;
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+  overflow: hidden;
+  background-color: #979694;
+  border-radius: 10px; }
+  #preview img {
+    width: 200px;
+    height: auto; }
+
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
